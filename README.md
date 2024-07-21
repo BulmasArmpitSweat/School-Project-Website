@@ -4,6 +4,14 @@ This repo is part of Git Integration & Wix CLI, a set of tools that allows you t
 
 Connect your site to GitHub, develop in your favorite IDE, test your code in real time, and publish your site from the command line.
 
+## Disclaimer:
+
+This GitHub repository is only public to allow people who aren't particularily tech-savvy to view this repo without needing to fuss about with read-only private access tokens or other bullshit like that.
+
+If you come across this repo, I kindly ask you to leave without looking back. I'm already ruining my dignity by having such a terrible repo public on the internet, and I don't need people dunking on it. I'm trying my best.
+
+Unless your name is Mx. Hicks, in which case, welcome!!! Please enjoy your stay.
+
 Website preview located below auto-generated content
 
 ## Set up this repository in your IDE
