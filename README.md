@@ -65,6 +65,8 @@ Git Integration & Wix CLI extends Editor X's [concurrent editing](https://suppor
 ###### Gives a basic introduction about what the website is about, and gives a button that links to the first actual page of the website beyond QoL (Quality of Life) and introduction pages
 ![image](./Markdown_Images/Screen%201-1.png)Page 1 section 1
 
+Yes, I know my face is on the internet, there isn't much I can do at this point besides edit the image, but I can't be bothered right now, and this assignment is already overdue enough as it is.
+
 ##### Page 2-1
 ###### The first proper page of the website. Gives a basic introduction of who I am, how to navigate the website, and what I am attempting to acheive with this website
 ![image](./Markdown_Images/Screen%202-1.png)Page 2 section 1
