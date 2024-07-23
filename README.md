@@ -14,6 +14,8 @@ Unless your name is Mx. Hicks, in which case, welcome!!! Please enjoy your stay.
 
 Website preview located below auto-generated content
 
+If you're having trouble seeing the images, they are available to look at more closely in the [Markdown_Images](./Markdown_Images/) folder.
+
 ## Set up this repository in your IDE
 This repo is connected to a Wix site. That site tracks this repo's default branch. Any code committed and pushed to that branch from your local IDE appears on the site.
 
